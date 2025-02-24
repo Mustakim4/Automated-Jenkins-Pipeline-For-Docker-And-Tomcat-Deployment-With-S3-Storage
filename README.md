@@ -7,6 +7,18 @@ This project automates the entire software development lifecycle by integrating 
 Created a Jenkins server on Ubuntu 22.04 (AWS EC2 t2.medium instance).
 
 ## Installed:
+
 Java 17, Maven 3.9.1, Jenkins, and AWS CLI.
 
 Jenkins Plugins: "Pipeline: AWS Steps" plugins to upload artifact to aws s3.
+
+
+## Setup another Server: 
+
+Created a Docker server on Ubuntu 22.04 (AWS EC2 t2.small instance).
+
+## Installed:
+
+Docker and AWS CLI.
+
+Created Docker file and deploy app using tomcat 
