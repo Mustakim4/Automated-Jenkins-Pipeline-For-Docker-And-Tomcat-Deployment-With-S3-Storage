@@ -1,0 +1,2 @@
+# Automated-Jenkins-Pipeline-For-Docker-And-Tomcat-Deployment-With-S3-Storage
+This project automates the entire software development lifecycle by integrating Jenkins, Docker, AWS, and Tomcat for efficient build, deployment, and artifact storage. The main objective is to streamline the process of building, storing, and deploying applications using a combination of Jenkins pipelines, Docker containers, and AWS S3 storage.
